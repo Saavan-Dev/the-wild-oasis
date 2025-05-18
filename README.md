@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 #The Wild Oasis
 
 Main project in Ultimate React Course.
+
+## To Login :-
+user: admin@admin.com
+password: admin@123
